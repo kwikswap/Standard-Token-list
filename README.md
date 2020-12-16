@@ -1,6 +1,3 @@
-## Token lists website.
-
-![Token lists](https://github.com/kwikswap/tokenlists-org/blob/master/public/card.png?raw=true)
 
 A site to help users discover and get info about lists.
 
