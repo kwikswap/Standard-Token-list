@@ -1,0 +1,25 @@
+{
+  "short_name": "Token lists",
+  "name": "Ethereum token lists",
+  "icons": [
+    {
+      "src": "kswap_logo_black.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "kswap_logo_black.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "kswap_logo_black.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
